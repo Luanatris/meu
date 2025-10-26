@@ -25,7 +25,11 @@
         <nav class="menu-desktop">
             <ul>
                 <li><a href="#topo">Início</a></li>
-                <li><a href="#especialidades">Especialidades</a></li>
+                <li><a href="#especialidades">Espe!<img widt[style.css](https://github.com/user-attachments/files/23151791/style.css)
+h="250" height="2[menu.js](https://github.com/user-attachments/files/23151789/menu.js)
+50" alt="Logo DATa png ico" src="https://github.com/user-attachments/assets/cf899655-bc72-4f8e-8552-9007f9f5d2dd" />
+[rolagem](https://github.com/user-attachments/assets/df5b8a96-bbb4-431f-850a-cc78c2f3885a)
+cialidades</a></li>
                 <li><a href="#sobre">Sobre</a></li>
                 <li><a href="#portfolio">Projetos</a></li>
                 <li><a href="#formulario">Contato</a></li>
