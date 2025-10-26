@@ -1,3 +1,4 @@
+<img width="250" height="250" alt="Logo DATa png ico" src="https://github.com/user-attachments/assets/9ca45a67-2a89-4223-b509-2a02fd147ea9" />
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
